@@ -3,7 +3,7 @@ kind: Service
 metadata:
   name: svc-ip
 spec:
-  type: LoadBalaner
+  type: LoadBalancer
   selector:
     app: nginx
   ports:
