@@ -28,4 +28,4 @@ spec:
     spec:
       containers:
       - name: fast-con
-        image: qwerqwsd/fast:5
+        image: qwerqwsd/fast:34
