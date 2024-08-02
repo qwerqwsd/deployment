@@ -28,4 +28,4 @@ spec:
     spec:
       containers:
       - name: fast-con
-        image: qwerqwsd/fast:34
+        image: 278934099200.dkr.ecr.ap-northeast-2.amazonaws.com/fast:34
